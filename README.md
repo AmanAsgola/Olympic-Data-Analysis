@@ -1,5 +1,6 @@
-# Olympic-Data-Analysis
-Olympic Data Analysis 🏅📊
+# Olympic-Data-Analysis🏅📊
+
+
 Overview
 The Olympic Data Analysis project is an exciting exploration of the fascinating world of Olympic Games. We delve into the historical data spanning from 1986 to 2016, unearthing valuable insights and trends. Whether you’re a sports enthusiast, a data scientist, or simply curious about the Olympics, this project has something for everyone.
 
